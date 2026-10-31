@@ -4,7 +4,7 @@ An end-to-end retail analytics portfolio project combining **Python, Pandas, SQL
 
 **[Explore the interactive Tableau dashboard](https://public.tableau.com/app/profile/gracious.zigara/viz/OnlineRetailSalesCustomerAnalyticsDashboard/Dashboard1)**
 
-![Online Retail Sales & Customer Analytics dashboard](images/tableau_dashboard.png)
+![Online Retail Sales & Customer Analytics Dashboard](Dashboard%201.png)
 
 ## Project overview
 
