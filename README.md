@@ -51,7 +51,7 @@ These are **data-informed proposals**, not measured intervention outcomes.
 
 ```text
 notebooks/
-  retail_python_analysis.ipynb   # Cleaning, EDA, RFM, interactive charts, recommendations
+  retail_sales_customer_analysis.ipynb   # Cleaning, EDA, RFM, interactive charts, recommendations
 sql/
   retail_analysis.sql            # Seven SQL analyses, including CTE/window function
 results/
