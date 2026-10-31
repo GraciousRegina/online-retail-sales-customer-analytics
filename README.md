@@ -67,7 +67,7 @@ README.md
 
 ## How to reproduce
 
-1. Open `notebooks/retail_python_analysis.ipynb` in Google Colab and upload the source `OnlineRetail.csv` into the runtime. Run the notebook in order; the original notebook contains Colab-specific export steps.
+1. Open `notebooks/retail_sales_customer_analysis.ipynb` in Google Colab and upload the source `OnlineRetail.csv` into the runtime. Run the notebook in order; the original notebook contains Colab-specific export steps.
 2. Export the cleaned Tableau-ready CSV with customer IDs from the notebook (`Retail_Tableau_Dashboard_Data_With_CustomerID.csv`). The raw source and customer-level CSV are **not included in this public repository**.
 3. Install `pandas` in a Python environment, then run:
 
